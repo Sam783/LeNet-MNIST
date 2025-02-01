@@ -1,5 +1,4 @@
-# MNIST LeNet-5 Implementation
-![image](https://github.com/user-attachments/assets/8a046c63-7f55-487e-86fd-fdeb8490fd5e)
+![image](https://github.com/user-attachments/assets/16bd083f-6e3f-4683-9ab6-fd69fade3a3b)
 
 # Dataset
 The MNIST dataset consists of 60,000 training images and 10,000 test images of handwritten digits (0-9). Each image is 28x28 pixels in grayscale.
@@ -21,17 +20,6 @@ The MNIST dataset consists of 60,000 training images and 10,000 test images of h
 - Utilizes CNNs for feature extraction and classification
 - Evaluates model performance using accuracy metrics
 - Developed a user-friendly interface using Streamlit for real-time digit recognition
-
-# Prerequisites
-- Python 3.x
-- NumPy
-- Matplotlib
-- Seaborn
-- Pillow
-- TensorFlow
-- Keras
-- Streamlit
-- Streamlit-Drawable-Canvas
 
 # Getting Started
 1. Clone the repository:
