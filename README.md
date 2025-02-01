@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/16bd083f-6e3f-4683-9ab6-fd69fade3a3b)
+![image](https://github.com/user-attachments/assets/2272da12-dd87-4cb5-bb57-1893f30a4eca)
 
 # Dataset
 The MNIST dataset consists of 60,000 training images and 10,000 test images of handwritten digits (0-9). Each image is 28x28 pixels in grayscale.
