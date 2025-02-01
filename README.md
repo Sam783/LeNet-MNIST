@@ -25,6 +25,15 @@ The MNIST dataset consists of 60,000 training images and 10,000 test images of h
 1. Clone the repository:
    ```bash
    https://github.com/Sam783/LeNet-MNIST.git
-2. Install the required dependencies:
+   
+2. Navigate to the project directory:
+   ```bash
+   cd LeNet-MNIST
+   
+3. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
+   
+4. Run the Streamlit app:
+   ```bash
+   streamlit run app.py
